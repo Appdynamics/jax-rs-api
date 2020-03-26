@@ -1,0 +1,30 @@
+////
+*******************************************************************
+* Copyright (c) 2019 Eclipse Foundation
+*
+* This specification document is made available under the terms
+* of the Eclipse Foundation Specification License v1.0, which is
+* available at https://www.eclipse.org/legal/efsl.php.
+*******************************************************************
+////
+
+[[status]]
+=== Status
+
+This is the final release of version 2.1. The issue tracking system for
+this release can be found at:
+
+https://github.com/jax-rs/api/issues
+
+The corresponding Javadocs can be found online at:
+
+https://jax-rs.github.io/apidocs/2.1
+
+The reference implementation can be obtained from:
+
+https://jersey.github.io
+
+The expert group seeks feedback from the community on any aspect of this
+specification, please send comments to:
+
+jaxrs-spec@javaee.groups.io
